@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Cambio el directorio de trabajo para hacer más fácil el resto del script
-cd Trabajo2/
-
 # Compilo los tres códigos fuente
 gcc -o Ej1 fuente1.c
 gcc -o Ej2 fuente2.c
